@@ -10,6 +10,7 @@ header{
     background-image:url(FullSizeRender-3-05.jpeg);
     background-size: cover;
     background-position: center;
+    background-color: black;
 }
 nav{
     display: flex;
